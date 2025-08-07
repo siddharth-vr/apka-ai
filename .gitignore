@@ -1,0 +1,16 @@
+# Ignore Python virtual environment
+venv/
+
+# Bytecode
+__pycache__/
+*.py[cod]
+
+# Logs
+*.log
+
+# Environment files
+.env
+
+# Mac/Windows system files
+.DS_Store
+Thumbs.db
